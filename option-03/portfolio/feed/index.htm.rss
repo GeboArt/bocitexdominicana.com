@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Portfolio &#8211; Druk</title>
+	<atom:link href="https://elementor.zozothemes.com/druk/portfolio/feed/" rel="self" type="application/rss+xml" />
+	<link>https://elementor.zozothemes.com/druk</link>
+	<description>Bordados y Serigrafía</description>
+	<lastBuildDate>Fri, 28 Oct 2022 13:15:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://elementor.zozothemes.com/druk/wp-content/uploads/sites/57/2022/10/cropped-site-icon-1-32x32.png</url>
+	<title>Portfolio &#8211; Druk</title>
+	<link>https://elementor.zozothemes.com/druk</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>T Shirt</title>
+		<link>https://elementor.zozothemes.com/druk/portfolio/t-shirt/</link>
+		
+		<dc:creator><![CDATA[druk]]></dc:creator>
+		<pubDate>Fri, 20 Oct 2017 12:22:49 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.zozothemes.com/megafactory/?post_type=cea-portfolio&#038;p=811</guid>
+
+					<description><![CDATA[Project Description Proin viverra posuere varius lorem nisi. Egestas odio urna sed in accumsan curabitur. Fringilla magna sed orci, et sit sapien nunc non vel. Quam elit non sed mus amet, tortor. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour aute]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="811" class="elementor elementor-811">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-77d3358 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="77d3358" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6865bf8 elementor-invisible" data-id="6865bf8" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-fbbccdc cea-align-left elementor-widget elementor-widget-ceasectiontitle" data-id="fbbccdc" data-element_type="widget" data-widget_type="ceasectiontitle.default">
+				<div class="elementor-widget-container">
+			<div class="section-title-wrapper"><div class="title-wrap"><h4 class="section-title">Project Description</h4></div><!-- .title-wrap --><div class="section-description"><p class="section-content">Proin viverra posuere varius lorem nisi. Egestas odio urna sed in accumsan curabitur. Fringilla magna sed orci, et sit sapien nunc non vel. Quam elit non sed mus amet, tortor. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour aute irure dolor in reprehenderit in voluptate velit.</p></div><!-- .section-description --></div><!-- .section-title-wrapper -->		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-69e13df elementor-invisible" data-id="69e13df" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e62392e cea-align-left elementor-widget elementor-widget-ceasectiontitle" data-id="e62392e" data-element_type="widget" data-widget_type="ceasectiontitle.default">
+				<div class="elementor-widget-container">
+			<div class="section-title-wrapper"><div class="title-wrap"><h4 class="section-title">How we do it?</h4></div><!-- .title-wrap --><div class="section-description"></div><!-- .section-description --></div><!-- .section-title-wrapper -->		</div>
+				</div>
+				<div class="elementor-element elementor-element-89a4060 elementor-widget elementor-widget-ceaiconlist" data-id="89a4060" data-element_type="widget" data-widget_type="ceaiconlist.default">
+				<div class="elementor-widget-container">
+					
+		<ul class="nav flex-column cea-icon-list">
+		<li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">More accurate match between press and proof</span></li><li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">Similar visual appearance across all print processes</span></li><li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">Better color control saving you time and money</span></li><li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">We provide fast on-demand printing.</span></li>		</ul>
+		
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5d7354f elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="5d7354f" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-narrow">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3994699" data-id="3994699" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-22e6c08 elementor-widget elementor-widget-image" data-id="22e6c08" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.8.1 - 13-11-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" src="https://elementor.zozothemes.com/druk/wp-content/uploads/sites/57/elementor/thumbs/serv-2-pwfr0jvub8yy7nsa4fli3gkmhkeul1o3fvpudexrig.jpg" title="serv-2" alt="serv-2" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-2d6d7a6" data-id="2d6d7a6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-450b889 elementor-widget elementor-widget-image" data-id="450b889" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://elementor.zozothemes.com/druk/wp-content/uploads/sites/57/elementor/thumbs/serv-5-pwfr0lriox1iuvpjtger8g3joc5l0fvk450tbyuz60.jpg" title="serv-5" alt="serv-5" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-564cea7" data-id="564cea7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7b1678d elementor-widget elementor-widget-image" data-id="7b1678d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://elementor.zozothemes.com/druk/wp-content/uploads/sites/57/elementor/thumbs/serv-6-pwfr0lriox1iuvpjtger8g3joc5l0fvk450tbyuz60.jpg" title="serv-6" alt="serv-6" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ead0080 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ead0080" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4a2769f elementor-invisible" data-id="4a2769f" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8e87645 cea-align-left elementor-widget elementor-widget-ceasectiontitle" data-id="8e87645" data-element_type="widget" data-widget_type="ceasectiontitle.default">
+				<div class="elementor-widget-container">
+			<div class="section-title-wrapper"><div class="title-wrap"><h4 class="section-title">The Solution &amp; Result</h4></div><!-- .title-wrap --><div class="section-description"><p class="section-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur sint occaecat cupidatat.</p></div><!-- .section-description --></div><!-- .section-title-wrapper -->		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-0a699f9 elementor-invisible" data-id="0a699f9" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f76782e elementor-widget elementor-widget-ceachart" data-id="f76782e" data-element_type="widget" data-widget_type="ceachart.default">
+				<div class="elementor-widget-container">
+			<canvas id="chart-rand-1" class="pie-chart" width="800" height="330" data-type="bar" data-labels="Document,Book,Brochure,Bag,Certificate,T-Shirt" data-values="35,45,55,92,65,45" data-backgrounds="#FF3D67,#36A2EB,#FFCE56,#8D0587,#0BBF18,#805C0B" data-responsive="1" data-legend-position="top" data-yaxes-zorobegining="1"></canvas>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bag</title>
+		<link>https://elementor.zozothemes.com/druk/portfolio/bag/</link>
+		
+		<dc:creator><![CDATA[druk]]></dc:creator>
+		<pubDate>Fri, 20 Oct 2017 12:19:29 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.zozothemes.com/megafactory/?post_type=cea-portfolio&#038;p=809</guid>
+
+					<description><![CDATA[Project Description Proin viverra posuere varius lorem nisi. Egestas odio urna sed in accumsan curabitur. Fringilla magna sed orci, et sit sapien nunc non vel. Quam elit non sed mus amet, tortor. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour aute]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="809" class="elementor elementor-809">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-582f2d5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="582f2d5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-191ee1f elementor-invisible" data-id="191ee1f" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d253e92 cea-align-left elementor-widget elementor-widget-ceasectiontitle" data-id="d253e92" data-element_type="widget" data-widget_type="ceasectiontitle.default">
+				<div class="elementor-widget-container">
+			<div class="section-title-wrapper"><div class="title-wrap"><h4 class="section-title">Project Description</h4></div><!-- .title-wrap --><div class="section-description"><p class="section-content">Proin viverra posuere varius lorem nisi. Egestas odio urna sed in accumsan curabitur. Fringilla magna sed orci, et sit sapien nunc non vel. Quam elit non sed mus amet, tortor. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour aute irure dolor in reprehenderit in voluptate velit.</p></div><!-- .section-description --></div><!-- .section-title-wrapper -->		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5ec3912 elementor-invisible" data-id="5ec3912" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-441a219 cea-align-left elementor-widget elementor-widget-ceasectiontitle" data-id="441a219" data-element_type="widget" data-widget_type="ceasectiontitle.default">
+				<div class="elementor-widget-container">
+			<div class="section-title-wrapper"><div class="title-wrap"><h4 class="section-title">How we do it?</h4></div><!-- .title-wrap --><div class="section-description"></div><!-- .section-description --></div><!-- .section-title-wrapper -->		</div>
+				</div>
+				<div class="elementor-element elementor-element-cac22ba elementor-widget elementor-widget-ceaiconlist" data-id="cac22ba" data-element_type="widget" data-widget_type="ceaiconlist.default">
+				<div class="elementor-widget-container">
+					
+		<ul class="nav flex-column cea-icon-list">
+		<li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">More accurate match between press and proof</span></li><li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">Similar visual appearance across all print processes</span></li><li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">Better color control saving you time and money</span></li><li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">We provide fast on-demand printing.</span></li>		</ul>
+		
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f7f8973 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="f7f8973" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-narrow">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-843125a" data-id="843125a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c03c696 elementor-widget elementor-widget-image" data-id="c03c696" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://elementor.zozothemes.com/druk/wp-content/uploads/sites/57/elementor/thumbs/serv-2-pwfr0jvub8yy7nsa4fli3gkmhkeul1o3fvpudexrig.jpg" title="serv-2" alt="serv-2" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-ee18ff5" data-id="ee18ff5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-dfde6be elementor-widget elementor-widget-image" data-id="dfde6be" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://elementor.zozothemes.com/druk/wp-content/uploads/sites/57/elementor/thumbs/serv-5-pwfr0lriox1iuvpjtger8g3joc5l0fvk450tbyuz60.jpg" title="serv-5" alt="serv-5" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-79cfe29" data-id="79cfe29" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-17d37b6 elementor-widget elementor-widget-image" data-id="17d37b6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://elementor.zozothemes.com/druk/wp-content/uploads/sites/57/elementor/thumbs/serv-6-pwfr0lriox1iuvpjtger8g3joc5l0fvk450tbyuz60.jpg" title="serv-6" alt="serv-6" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-38917a8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="38917a8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2a36b4c elementor-invisible" data-id="2a36b4c" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-105b480 cea-align-left elementor-widget elementor-widget-ceasectiontitle" data-id="105b480" data-element_type="widget" data-widget_type="ceasectiontitle.default">
+				<div class="elementor-widget-container">
+			<div class="section-title-wrapper"><div class="title-wrap"><h4 class="section-title">The Solution &amp; Result</h4></div><!-- .title-wrap --><div class="section-description"><p class="section-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur sint occaecat cupidatat.</p></div><!-- .section-description --></div><!-- .section-title-wrapper -->		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-aafd832 elementor-invisible" data-id="aafd832" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e2529cb elementor-widget elementor-widget-ceachart" data-id="e2529cb" data-element_type="widget" data-widget_type="ceachart.default">
+				<div class="elementor-widget-container">
+			<canvas id="chart-rand-2" class="pie-chart" width="800" height="330" data-type="bar" data-labels="Document,Book,Brochure,Bag,Certificate,T-Shirt" data-values="35,45,55,92,65,45" data-backgrounds="#FF3D67,#36A2EB,#FFCE56,#8D0587,#0BBF18,#805C0B" data-responsive="1" data-legend-position="top" data-yaxes-zorobegining="1"></canvas>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cards</title>
+		<link>https://elementor.zozothemes.com/druk/portfolio/cards/</link>
+		
+		<dc:creator><![CDATA[druk]]></dc:creator>
+		<pubDate>Fri, 20 Oct 2017 12:03:17 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.zozothemes.com/megafactory/?post_type=cea-portfolio&#038;p=807</guid>
+
+					<description><![CDATA[Project Description Proin viverra posuere varius lorem nisi. Egestas odio urna sed in accumsan curabitur. Fringilla magna sed orci, et sit sapien nunc non vel. Quam elit non sed mus amet, tortor. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour aute]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="807" class="elementor elementor-807">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-1bc4c3a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1bc4c3a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-88597cb elementor-invisible" data-id="88597cb" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a6aa226 cea-align-left elementor-widget elementor-widget-ceasectiontitle" data-id="a6aa226" data-element_type="widget" data-widget_type="ceasectiontitle.default">
+				<div class="elementor-widget-container">
+			<div class="section-title-wrapper"><div class="title-wrap"><h4 class="section-title">Project Description</h4></div><!-- .title-wrap --><div class="section-description"><p class="section-content">Proin viverra posuere varius lorem nisi. Egestas odio urna sed in accumsan curabitur. Fringilla magna sed orci, et sit sapien nunc non vel. Quam elit non sed mus amet, tortor. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour aute irure dolor in reprehenderit in voluptate velit.</p></div><!-- .section-description --></div><!-- .section-title-wrapper -->		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-28a3380 elementor-invisible" data-id="28a3380" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3aa8856 cea-align-left elementor-widget elementor-widget-ceasectiontitle" data-id="3aa8856" data-element_type="widget" data-widget_type="ceasectiontitle.default">
+				<div class="elementor-widget-container">
+			<div class="section-title-wrapper"><div class="title-wrap"><h4 class="section-title">How we do it?</h4></div><!-- .title-wrap --><div class="section-description"></div><!-- .section-description --></div><!-- .section-title-wrapper -->		</div>
+				</div>
+				<div class="elementor-element elementor-element-61ac96e elementor-widget elementor-widget-ceaiconlist" data-id="61ac96e" data-element_type="widget" data-widget_type="ceaiconlist.default">
+				<div class="elementor-widget-container">
+					
+		<ul class="nav flex-column cea-icon-list">
+		<li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">More accurate match between press and proof</span></li><li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">Similar visual appearance across all print processes</span></li><li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">Better color control saving you time and money</span></li><li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">We provide fast on-demand printing.</span></li>		</ul>
+		
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6444c5e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="6444c5e" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-narrow">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-683dc3f" data-id="683dc3f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7fc662e elementor-widget elementor-widget-image" data-id="7fc662e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://elementor.zozothemes.com/druk/wp-content/uploads/sites/57/elementor/thumbs/serv-2-pwfr0jvub8yy7nsa4fli3gkmhkeul1o3fvpudexrig.jpg" title="serv-2" alt="serv-2" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-2418646" data-id="2418646" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5bebd20 elementor-widget elementor-widget-image" data-id="5bebd20" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://elementor.zozothemes.com/druk/wp-content/uploads/sites/57/elementor/thumbs/serv-5-pwfr0lriox1iuvpjtger8g3joc5l0fvk450tbyuz60.jpg" title="serv-5" alt="serv-5" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-73bc661" data-id="73bc661" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-dc39f1e elementor-widget elementor-widget-image" data-id="dc39f1e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://elementor.zozothemes.com/druk/wp-content/uploads/sites/57/elementor/thumbs/serv-6-pwfr0lriox1iuvpjtger8g3joc5l0fvk450tbyuz60.jpg" title="serv-6" alt="serv-6" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6294109 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6294109" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-76dc6c0 elementor-invisible" data-id="76dc6c0" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-755de8c cea-align-left elementor-widget elementor-widget-ceasectiontitle" data-id="755de8c" data-element_type="widget" data-widget_type="ceasectiontitle.default">
+				<div class="elementor-widget-container">
+			<div class="section-title-wrapper"><div class="title-wrap"><h4 class="section-title">The Solution &amp; Result</h4></div><!-- .title-wrap --><div class="section-description"><p class="section-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur sint occaecat cupidatat.</p></div><!-- .section-description --></div><!-- .section-title-wrapper -->		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d72151a elementor-invisible" data-id="d72151a" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-fbca10b elementor-widget elementor-widget-ceachart" data-id="fbca10b" data-element_type="widget" data-widget_type="ceachart.default">
+				<div class="elementor-widget-container">
+			<canvas id="chart-rand-3" class="pie-chart" width="800" height="330" data-type="bar" data-labels="Document,Book,Brochure,Bag,Certificate,T-Shirt" data-values="35,45,55,92,65,45" data-backgrounds="#FF3D67,#36A2EB,#FFCE56,#8D0587,#0BBF18,#805C0B" data-responsive="1" data-legend-position="top" data-yaxes-zorobegining="1"></canvas>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Card Cover</title>
+		<link>https://elementor.zozothemes.com/druk/portfolio/card-cover/</link>
+		
+		<dc:creator><![CDATA[druk]]></dc:creator>
+		<pubDate>Fri, 20 Oct 2017 12:01:22 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.zozothemes.com/megafactory/?post_type=cea-portfolio&#038;p=805</guid>
+
+					<description><![CDATA[Project Description Proin viverra posuere varius lorem nisi. Egestas odio urna sed in accumsan curabitur. Fringilla magna sed orci, et sit sapien nunc non vel. Quam elit non sed mus amet, tortor. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour aute]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="805" class="elementor elementor-805">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-8e54146 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8e54146" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-43a12ef elementor-invisible" data-id="43a12ef" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-253bd1d cea-align-left elementor-widget elementor-widget-ceasectiontitle" data-id="253bd1d" data-element_type="widget" data-widget_type="ceasectiontitle.default">
+				<div class="elementor-widget-container">
+			<div class="section-title-wrapper"><div class="title-wrap"><h4 class="section-title">Project Description</h4></div><!-- .title-wrap --><div class="section-description"><p class="section-content">Proin viverra posuere varius lorem nisi. Egestas odio urna sed in accumsan curabitur. Fringilla magna sed orci, et sit sapien nunc non vel. Quam elit non sed mus amet, tortor. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour aute irure dolor in reprehenderit in voluptate velit.</p></div><!-- .section-description --></div><!-- .section-title-wrapper -->		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9de177f elementor-invisible" data-id="9de177f" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-406879f cea-align-left elementor-widget elementor-widget-ceasectiontitle" data-id="406879f" data-element_type="widget" data-widget_type="ceasectiontitle.default">
+				<div class="elementor-widget-container">
+			<div class="section-title-wrapper"><div class="title-wrap"><h4 class="section-title">How we do it?</h4></div><!-- .title-wrap --><div class="section-description"></div><!-- .section-description --></div><!-- .section-title-wrapper -->		</div>
+				</div>
+				<div class="elementor-element elementor-element-48f0a32 elementor-widget elementor-widget-ceaiconlist" data-id="48f0a32" data-element_type="widget" data-widget_type="ceaiconlist.default">
+				<div class="elementor-widget-container">
+					
+		<ul class="nav flex-column cea-icon-list">
+		<li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">More accurate match between press and proof</span></li><li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">Similar visual appearance across all print processes</span></li><li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">Better color control saving you time and money</span></li><li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">We provide fast on-demand printing.</span></li>		</ul>
+		
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6575c1b elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="6575c1b" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-narrow">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6cf9d3f" data-id="6cf9d3f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c55eaf9 elementor-widget elementor-widget-image" data-id="c55eaf9" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://elementor.zozothemes.com/druk/wp-content/uploads/sites/57/elementor/thumbs/serv-2-pwfr0jvub8yy7nsa4fli3gkmhkeul1o3fvpudexrig.jpg" title="serv-2" alt="serv-2" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-10db157" data-id="10db157" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5d9a3d1 elementor-widget elementor-widget-image" data-id="5d9a3d1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://elementor.zozothemes.com/druk/wp-content/uploads/sites/57/elementor/thumbs/serv-5-pwfr0lriox1iuvpjtger8g3joc5l0fvk450tbyuz60.jpg" title="serv-5" alt="serv-5" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-330cecf" data-id="330cecf" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1c5b9ee elementor-widget elementor-widget-image" data-id="1c5b9ee" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://elementor.zozothemes.com/druk/wp-content/uploads/sites/57/elementor/thumbs/serv-6-pwfr0lriox1iuvpjtger8g3joc5l0fvk450tbyuz60.jpg" title="serv-6" alt="serv-6" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1dcf40b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1dcf40b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-83e8e71 elementor-invisible" data-id="83e8e71" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6201f7f cea-align-left elementor-widget elementor-widget-ceasectiontitle" data-id="6201f7f" data-element_type="widget" data-widget_type="ceasectiontitle.default">
+				<div class="elementor-widget-container">
+			<div class="section-title-wrapper"><div class="title-wrap"><h4 class="section-title">The Solution &amp; Result</h4></div><!-- .title-wrap --><div class="section-description"><p class="section-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur sint occaecat cupidatat.</p></div><!-- .section-description --></div><!-- .section-title-wrapper -->		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-a6683a8 elementor-invisible" data-id="a6683a8" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6f4af75 elementor-widget elementor-widget-ceachart" data-id="6f4af75" data-element_type="widget" data-widget_type="ceachart.default">
+				<div class="elementor-widget-container">
+			<canvas id="chart-rand-4" class="pie-chart" width="800" height="330" data-type="bar" data-labels="Document,Book,Brochure,Bag,Certificate,T-Shirt" data-values="35,45,55,92,65,45" data-backgrounds="#FF3D67,#36A2EB,#FFCE56,#8D0587,#0BBF18,#805C0B" data-responsive="1" data-legend-position="top" data-yaxes-zorobegining="1"></canvas>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Coffee Cup</title>
+		<link>https://elementor.zozothemes.com/druk/portfolio/coffee-cup/</link>
+		
+		<dc:creator><![CDATA[druk]]></dc:creator>
+		<pubDate>Thu, 05 Oct 2017 05:11:25 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.zozothemes.com/megafactory/?post_type=cea-portfolio&#038;p=108</guid>
+
+					<description><![CDATA[Project Description Proin viverra posuere varius lorem nisi. Egestas odio urna sed in accumsan curabitur. Fringilla magna sed orci, et sit sapien nunc non vel. Quam elit non sed mus amet, tortor. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour aute]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="108" class="elementor elementor-108">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-edc6a82 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="edc6a82" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-0bbcda5 elementor-invisible" data-id="0bbcda5" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e5404e0 cea-align-left elementor-widget elementor-widget-ceasectiontitle" data-id="e5404e0" data-element_type="widget" data-widget_type="ceasectiontitle.default">
+				<div class="elementor-widget-container">
+			<div class="section-title-wrapper"><div class="title-wrap"><h4 class="section-title">Project Description</h4></div><!-- .title-wrap --><div class="section-description"><p class="section-content">Proin viverra posuere varius lorem nisi. Egestas odio urna sed in accumsan curabitur. Fringilla magna sed orci, et sit sapien nunc non vel. Quam elit non sed mus amet, tortor. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour aute irure dolor in reprehenderit in voluptate velit.</p></div><!-- .section-description --></div><!-- .section-title-wrapper -->		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f827e42 elementor-invisible" data-id="f827e42" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f7f8f9d cea-align-left elementor-widget elementor-widget-ceasectiontitle" data-id="f7f8f9d" data-element_type="widget" data-widget_type="ceasectiontitle.default">
+				<div class="elementor-widget-container">
+			<div class="section-title-wrapper"><div class="title-wrap"><h4 class="section-title">How we do it?</h4></div><!-- .title-wrap --><div class="section-description"></div><!-- .section-description --></div><!-- .section-title-wrapper -->		</div>
+				</div>
+				<div class="elementor-element elementor-element-fb3095e elementor-widget elementor-widget-ceaiconlist" data-id="fb3095e" data-element_type="widget" data-widget_type="ceaiconlist.default">
+				<div class="elementor-widget-container">
+					
+		<ul class="nav flex-column cea-icon-list">
+		<li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">More accurate match between press and proof</span></li><li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">Similar visual appearance across all print processes</span></li><li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">Better color control saving you time and money</span></li><li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">We provide fast on-demand printing.</span></li>		</ul>
+		
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-fb53d7f elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="fb53d7f" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-narrow">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-79d0dcf" data-id="79d0dcf" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b6728e6 elementor-widget elementor-widget-image" data-id="b6728e6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://elementor.zozothemes.com/druk/wp-content/uploads/sites/57/elementor/thumbs/serv-2-pwfr0jvub8yy7nsa4fli3gkmhkeul1o3fvpudexrig.jpg" title="serv-2" alt="serv-2" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-313281f" data-id="313281f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c4dba28 elementor-widget elementor-widget-image" data-id="c4dba28" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://elementor.zozothemes.com/druk/wp-content/uploads/sites/57/elementor/thumbs/serv-5-pwfr0lriox1iuvpjtger8g3joc5l0fvk450tbyuz60.jpg" title="serv-5" alt="serv-5" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e0ec982" data-id="e0ec982" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a6b5b70 elementor-widget elementor-widget-image" data-id="a6b5b70" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://elementor.zozothemes.com/druk/wp-content/uploads/sites/57/elementor/thumbs/serv-6-pwfr0lriox1iuvpjtger8g3joc5l0fvk450tbyuz60.jpg" title="serv-6" alt="serv-6" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d3eb44e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d3eb44e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-a308c45 elementor-invisible" data-id="a308c45" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b9e0b59 cea-align-left elementor-widget elementor-widget-ceasectiontitle" data-id="b9e0b59" data-element_type="widget" data-widget_type="ceasectiontitle.default">
+				<div class="elementor-widget-container">
+			<div class="section-title-wrapper"><div class="title-wrap"><h4 class="section-title">The Solution &amp; Result</h4></div><!-- .title-wrap --><div class="section-description"><p class="section-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur sint occaecat cupidatat.</p></div><!-- .section-description --></div><!-- .section-title-wrapper -->		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d13bb99 elementor-invisible" data-id="d13bb99" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6a1c100 elementor-widget elementor-widget-ceachart" data-id="6a1c100" data-element_type="widget" data-widget_type="ceachart.default">
+				<div class="elementor-widget-container">
+			<canvas id="chart-rand-5" class="pie-chart" width="800" height="330" data-type="bar" data-labels="Document,Book,Brochure,Bag,Certificate,T-Shirt" data-values="35,45,55,92,65,45" data-backgrounds="#FF3D67,#36A2EB,#FFCE56,#8D0587,#0BBF18,#805C0B" data-responsive="1" data-legend-position="top" data-yaxes-zorobegining="1"></canvas>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Brochures</title>
+		<link>https://elementor.zozothemes.com/druk/portfolio/brochures/</link>
+		
+		<dc:creator><![CDATA[druk]]></dc:creator>
+		<pubDate>Thu, 05 Oct 2017 05:09:23 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.zozothemes.com/megafactory/?post_type=cea-portfolio&#038;p=106</guid>
+
+					<description><![CDATA[Project Description Proin viverra posuere varius lorem nisi. Egestas odio urna sed in accumsan curabitur. Fringilla magna sed orci, et sit sapien nunc non vel. Quam elit non sed mus amet, tortor. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour aute]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="106" class="elementor elementor-106">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-9c70a68 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9c70a68" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-16b273f elementor-invisible" data-id="16b273f" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4ad8c78 cea-align-left elementor-widget elementor-widget-ceasectiontitle" data-id="4ad8c78" data-element_type="widget" data-widget_type="ceasectiontitle.default">
+				<div class="elementor-widget-container">
+			<div class="section-title-wrapper"><div class="title-wrap"><h4 class="section-title">Project Description</h4></div><!-- .title-wrap --><div class="section-description"><p class="section-content">Proin viverra posuere varius lorem nisi. Egestas odio urna sed in accumsan curabitur. Fringilla magna sed orci, et sit sapien nunc non vel. Quam elit non sed mus amet, tortor. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour aute irure dolor in reprehenderit in voluptate velit.</p></div><!-- .section-description --></div><!-- .section-title-wrapper -->		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5187321 elementor-invisible" data-id="5187321" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-cfdb69a cea-align-left elementor-widget elementor-widget-ceasectiontitle" data-id="cfdb69a" data-element_type="widget" data-widget_type="ceasectiontitle.default">
+				<div class="elementor-widget-container">
+			<div class="section-title-wrapper"><div class="title-wrap"><h4 class="section-title">How we do it?</h4></div><!-- .title-wrap --><div class="section-description"></div><!-- .section-description --></div><!-- .section-title-wrapper -->		</div>
+				</div>
+				<div class="elementor-element elementor-element-503beb9 elementor-widget elementor-widget-ceaiconlist" data-id="503beb9" data-element_type="widget" data-widget_type="ceaiconlist.default">
+				<div class="elementor-widget-container">
+					
+		<ul class="nav flex-column cea-icon-list">
+		<li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">More accurate match between press and proof</span></li><li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">Similar visual appearance across all print processes</span></li><li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">Better color control saving you time and money</span></li><li class="cea-icon-list-item">					<span class="cea-icon-list-icon">
+						<i aria-hidden="true" class="far fa-check-circle"></i>					</span>
+				<span class="icon-list-text">We provide fast on-demand printing.</span></li>		</ul>
+		
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e5132c2 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="e5132c2" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-narrow">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-8c9b479" data-id="8c9b479" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-358a56b elementor-widget elementor-widget-image" data-id="358a56b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://elementor.zozothemes.com/druk/wp-content/uploads/sites/57/elementor/thumbs/serv-2-pwfr0jvub8yy7nsa4fli3gkmhkeul1o3fvpudexrig.jpg" title="serv-2" alt="serv-2" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-97e6465" data-id="97e6465" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f61076a elementor-widget elementor-widget-image" data-id="f61076a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://elementor.zozothemes.com/druk/wp-content/uploads/sites/57/elementor/thumbs/serv-5-pwfr0lriox1iuvpjtger8g3joc5l0fvk450tbyuz60.jpg" title="serv-5" alt="serv-5" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-306a7ea" data-id="306a7ea" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0bfce39 elementor-widget elementor-widget-image" data-id="0bfce39" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://elementor.zozothemes.com/druk/wp-content/uploads/sites/57/elementor/thumbs/serv-6-pwfr0lriox1iuvpjtger8g3joc5l0fvk450tbyuz60.jpg" title="serv-6" alt="serv-6" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-258a2ca elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="258a2ca" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d910d71 elementor-invisible" data-id="d910d71" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-200017b cea-align-left elementor-widget elementor-widget-ceasectiontitle" data-id="200017b" data-element_type="widget" data-widget_type="ceasectiontitle.default">
+				<div class="elementor-widget-container">
+			<div class="section-title-wrapper"><div class="title-wrap"><h4 class="section-title">The Solution &amp; Result</h4></div><!-- .title-wrap --><div class="section-description"><p class="section-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur sint occaecat cupidatat.</p></div><!-- .section-description --></div><!-- .section-title-wrapper -->		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b464509 elementor-invisible" data-id="b464509" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-fe6376d elementor-widget elementor-widget-ceachart" data-id="fe6376d" data-element_type="widget" data-widget_type="ceachart.default">
+				<div class="elementor-widget-container">
+			<canvas id="chart-rand-6" class="pie-chart" width="800" height="330" data-type="bar" data-labels="Document,Book,Brochure,Bag,Certificate,T-Shirt" data-values="35,45,55,92,65,45" data-backgrounds="#FF3D67,#36A2EB,#FFCE56,#8D0587,#0BBF18,#805C0B" data-responsive="1" data-legend-position="top" data-yaxes-zorobegining="1"></canvas>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

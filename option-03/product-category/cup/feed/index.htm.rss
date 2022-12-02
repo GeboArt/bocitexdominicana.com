@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cup &#8211; Druk</title>
+	<atom:link href="https://elementor.zozothemes.com/druk/product-category/cup/feed/" rel="self" type="application/rss+xml" />
+	<link>https://elementor.zozothemes.com/druk</link>
+	<description>Bordados y Serigrafía</description>
+	<lastBuildDate>Wed, 16 Jan 2019 13:01:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://elementor.zozothemes.com/druk/wp-content/uploads/sites/57/2022/10/cropped-site-icon-1-32x32.png</url>
+	<title>Cup &#8211; Druk</title>
+	<link>https://elementor.zozothemes.com/druk</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Coffee Cup</title>
+		<link>https://elementor.zozothemes.com/druk/product/coffee-cup/</link>
+					<comments>https://elementor.zozothemes.com/druk/product/coffee-cup/#respond</comments>
+		
+		<dc:creator><![CDATA[druk]]></dc:creator>
+		<pubDate>Wed, 16 Jan 2019 13:01:54 +0000</pubDate>
+				<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/album/</guid>
+
+					<description><![CDATA[There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis orci ac odio dictum tincidunt. Donec ut metus leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed luctus, dui eu sagittis sodales, nulla nibh sagittis augue, vel porttitor diam enim non metus. Vestibulum aliquam augue neque. Phasellus tincidunt odio eget ullamcorper efficitur. Cras placerat ut turpis pellentesque vulputate. Nam sed consequat tortor. Curabitur finibus sapien dolor. Ut eleifend tellus nec erat pulvinar dignissim. Nam non arcu purus. Vivamus et massa massa.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://elementor.zozothemes.com/druk/product/coffee-cup/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Paper Cup</title>
+		<link>https://elementor.zozothemes.com/druk/product/paper-cup/</link>
+					<comments>https://elementor.zozothemes.com/druk/product/paper-cup/#respond</comments>
+		
+		<dc:creator><![CDATA[druk]]></dc:creator>
+		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
+				<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/product/sunglasses/</guid>
+
+					<description><![CDATA[There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://elementor.zozothemes.com/druk/product/paper-cup/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
